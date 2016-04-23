@@ -1,0 +1,30 @@
+body {
+    padding-top: 70px;
+    background-color:#e3e3e3;
+
+}
+body.undernavigation {
+    overflow-x: hidden;
+    padding-top: 130px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #528b85;
+    background-image:none;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.open>a{
+    background-color: #528b85 !important;
+    background-image:none !important;
+}
+.navbar-inverse{
+    background-image:none !important;
+    border: none;
+}
+.navbar-bottom2 {
+    background-color: #6ab3ac;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}

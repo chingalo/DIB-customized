@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node id="economicSector" label = "Economic Sectors">
+    <isComposedBy>
+        <node id="economicSector1" label = ""> </node>
+        <node id="economicSector2" label = ""> </node>
+        <node id="economicSector3" label = ""> </node>
+        <node id="economicSector4" label = ""> </node>
+    </isComposedBy>
+</node>
