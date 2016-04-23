@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <node id="economicSector" label = "Economic Sectors">
     <isComposedBy>
-        <node id="economicSector1" label = ""> </node>
-        <node id="economicSector2" label = ""> </node>
-        <node id="economicSector3" label = ""> </node>
-        <node id="economicSector4" label = ""> </node>
+        <node id="economicSector1" label = "Agriculture"> </node>
+        <node id="economicSector2" label = "Energy and Utilities"> </node>
+        <node id="economicSector3" label = "Financial Services"> </node>
+        <node id="economicSector4" label = "Image"> </node>
+        <node id="economicSector5" label = "Industry and Trade"> </node>
+        <node id="economicSector6" label = "Informal Sector"> </node>
+        <node id="economicSector7" label = "Infrastructure"> </node>
+        <node id="economicSector8" label = "Media"> </node>
+        <node id="economicSector9" label = "Natural Resources"> </node>
+        <node id="economicSector10" label = "Public Sector"> </node>
+        <node id="economicSector11" label = "Skills and Education"> </node>
+        <node id="economicSector12" label = "Tourism and Hospitality"> </node>
+        <node id="economicSector13" label = "Water and Irrigation"> </node>
     </isComposedBy>
 </node>

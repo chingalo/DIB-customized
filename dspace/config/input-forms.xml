@@ -41,12 +41,12 @@
 
        <field>
          <dc-schema>dc</dc-schema>
-         <dc-element>subject</dc-element>
+         <dc-element>sector</dc-element>
          <dc-qualifier></dc-qualifier>
          <repeatable>true</repeatable>
-         <label>Subject Keywords</label>
+         <label>Economic Sector</label>
          <input-type>onebox</input-type>
-         <hint>Enter appropriate subject keywords or phrases below.</hint>
+         <hint>Enter appropriate  Economic Sector or phrases below.</hint>
          <required></required>
          <vocabulary>sector</vocabulary>
        </field>
